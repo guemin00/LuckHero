@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+
+/[Aa]ssets//Assets/Asset FTTGR
+/[Aa]ssets//Assets/Asset FTTGR.meta
+/[Aa]ssets//Assets/Cainos
+/[Aa]ssets//Assets/Cainos.meta
+/[Aa]ssets//Assets/Cave Platformer Tileset
+/[Aa]ssets//Assets/Cave Platformer Tileset.meta
+/[Aa]ssets//Assets/Distant Forest Assets
+/[Aa]ssets//Assets/Distant Forest Assets.meta
+/[Aa]ssets//Assets/Fantasy Wooden GUI  Free
+/[Aa]ssets//Assets/Fantasy Wooden GUI  Free.meta
+/[Aa]ssets//Assets/FREE Parallax Forest Background HQ
+/[Aa]ssets//Assets/FREE Parallax Forest Background HQ.meta
+/[Aa]ssets//Assets/PF SET1
+/[Aa]ssets//Assets/PF SET1.meta
+/[Aa]ssets//Assets/Warped City 2
+/[Aa]ssets//Assets/Warped City 2.meta
+/[Aa]ssets//Assets/Warped City Assets
+/[Aa]ssets//Assets/Warped City Assets.meta
